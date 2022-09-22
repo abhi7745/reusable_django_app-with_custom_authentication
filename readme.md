@@ -1,7 +1,7 @@
 ## This Django app is build for Custom Authentication, build by [Abhijith KR](https://github.com/abhi7745).
 
 ### Authentication Views
-It provides several views that you can handle ( index, signup, login, logout )
+It provides several views that you can handle ( index, signup, login, logout ) and all are written using function-based views.
 
 ### Contents :-
 
