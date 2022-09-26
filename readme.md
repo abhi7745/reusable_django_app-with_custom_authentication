@@ -5,6 +5,9 @@ It provides several views that you can handle ( index, signup, login, logout ) a
 
 ### Contents :-
 
+#### project directory
+- urls.py (index) 
+
 #### app
 - accounts/views.py (index, signup, login, logout)
 - accounts/models.py (User_Account)
@@ -14,10 +17,10 @@ It provides several views that you can handle ( index, signup, login, logout ) a
 - accounts/dashboard/assets/(css, js, etc..)
 
 #### templates
-- accounts/(signup.html,login.html)
-- admin/(dashboard.html, sidebar.html)
-- /base.html
-- /index.html
+- templates/accounts/(signup.html,login.html)
+- templates/admin/(dashboard.html, sidebar.html)
+- templates/base.html
+- templates/index.html
 
 ### Requirements
 - django
